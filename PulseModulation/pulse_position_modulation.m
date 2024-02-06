@@ -11,7 +11,7 @@ pkg load signal;
 
 % Define Time Vector
 
-time = 0:0.00001:1; % Resizing For Avoiding Index Error
+time = 0:0.00001:1;
 
 
 

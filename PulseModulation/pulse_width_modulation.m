@@ -66,7 +66,7 @@ grid on;
 
 subplot(3, 1, 3);
 plot(time, pwm_signal, 'r');
-title('Pulse Width Modulated Signal(Natural)');
+title('Pulse Width Modulated Signal');
 xlabel('Time');
 ylabel('Amplitude');
 axis([0 1 0 1.1]);
